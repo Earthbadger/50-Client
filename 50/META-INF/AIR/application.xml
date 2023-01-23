@@ -1,0 +1,15 @@
+<application xmlns="http://ns.adobe.com/air/application/32.0">
+  <id>50Client</id>
+  <filename>50Client</filename>
+  <name>50Client</name>
+  <versionNumber>9</versionNumber>
+  <initialWindow>
+    <content>50Client.swf</content>
+    <title>50 Client</title>
+    <visible>true</visible>
+    <renderMode>direct</renderMode>
+    <depthAndStencil>false</depthAndStencil>
+  </initialWindow>
+  <supportedProfiles>desktop extendedDesktop</supportedProfiles>
+  <gpuPreference>discrete</gpuPreference>
+</application>
